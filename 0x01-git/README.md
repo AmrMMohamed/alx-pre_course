@@ -1,1 +1,2 @@
-this is 0x0-git dir
+this is 0x0-git di
+r
